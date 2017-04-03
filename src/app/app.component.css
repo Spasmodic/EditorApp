@@ -1,0 +1,12 @@
+#main{
+    background-color: #263238;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top:20px;
+    left:20px;
+    color:#E0F7FA;
+     border: none;
+    overflow: auto;
+    outline: none;
+}
