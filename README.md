@@ -1,5 +1,7 @@
 # WriteApp
 
+Inspired by my two favorite editors, a combined one that uses angular to generate a simple & flexible editor.
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
 ## Development server
